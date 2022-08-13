@@ -1,0 +1,14 @@
+{
+    "name": "ELH.NetwoxCloud™ XRAY For Heroku (WS Only)",
+    "description": "Deploy Xray Server to Heroku For Free",
+    "logo":"https://raw.githubusercontent.com/netbro201031/FileHost/main/ELH.png",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "Enter Your UUID or Get New ID via this website -> (https://www.uuidtools.com/v4) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/netbro201031/heroku-xray-ws-server",
+    "stack": "container"
+}
