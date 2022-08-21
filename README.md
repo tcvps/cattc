@@ -9,7 +9,7 @@
 
 # Deploy to Heroku
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/netbro201031/heroku-xray-ws-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/tcvps/cattc"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 # Configuration 
 
